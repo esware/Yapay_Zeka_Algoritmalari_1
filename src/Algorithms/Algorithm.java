@@ -1,0 +1,1 @@
+package Algorithms;public interface Algorithm{    String getName();    int[] findOptimalPath();}

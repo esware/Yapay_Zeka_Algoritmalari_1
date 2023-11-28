@@ -1,0 +1,1 @@
+package Algorithms;public class SearchNode{    int x, y, cost, action;    SearchNode parent;    SearchNode(int x, int y, int cost, int action, SearchNode parent)    {        this.x = x;        this.y = y;        this.cost = cost;        this.action = action;        this.parent = parent;    }}
